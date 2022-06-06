@@ -1,0 +1,7 @@
+{
+	"pg_user": "user",
+	"pg_password": "storing_pwd_in_file_is_bad_idea",
+	"pg_dbname": "user",
+	"pg_host": "127.0.0.1",
+	"pg_port": "5432"
+}
